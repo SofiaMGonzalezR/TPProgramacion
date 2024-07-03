@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|c:\\users\\smgon\\documents\\tecnicatura\\programacion i\\proyecto final\\proyectofinal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|c:\\users\\smgon\\documents\\tecnicatura\\programacion i\\proyecto final\\proyectofinal\\materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|solutionrelative:materia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|c:\\users\\smgon\\documents\\tecnicatura\\programacion i\\proyecto final\\proyectofinal\\alumnomateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|solutionrelative:alumnomateria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|c:\\users\\smgon\\documents\\tecnicatura\\programacion i\\proyecto final\\proyectofinal\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02B26CA9-508C-4C33-B321-110787C805BE}|ProyectoFinal.csproj|solutionrelative:alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Materia.cs",
+              "DocumentMoniker": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\Materia.cs",
+              "RelativeDocumentMoniker": "Materia.cs",
+              "ToolTip": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\Materia.cs",
+              "RelativeToolTip": "Materia.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:27:02.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\Alumno.cs",
+              "RelativeDocumentMoniker": "Alumno.cs",
+              "ToolTip": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\Alumno.cs",
+              "RelativeToolTip": "Alumno.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:25:09.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQBAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:09:33.368Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoMateria.cs",
+              "DocumentMoniker": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\AlumnoMateria.cs",
+              "RelativeDocumentMoniker": "AlumnoMateria.cs",
+              "ToolTip": "C:\\Users\\smgon\\Documents\\Tecnicatura\\Programacion I\\Proyecto final\\ProyectoFinal\\AlumnoMateria.cs",
+              "RelativeToolTip": "AlumnoMateria.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAA3wBIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-03T18:28:05.461Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

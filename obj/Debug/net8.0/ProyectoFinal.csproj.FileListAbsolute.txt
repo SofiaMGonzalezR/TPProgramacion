@@ -1,0 +1,14 @@
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.exe
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.deps.json
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.runtimeconfig.json
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.dll
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\bin\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfoInputs.cache
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.AssemblyInfo.cs
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.csproj.CoreCompileInputs.cache
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.dll
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\refint\ProyectoFinal.dll
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.pdb
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ProyectoFinal.genruntimeconfig.cache
+C:\Users\smgon\Documents\Tecnicatura\Programacion I\Proyecto final\ProyectoFinal\obj\Debug\net8.0\ref\ProyectoFinal.dll
